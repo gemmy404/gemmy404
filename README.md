@@ -4,7 +4,7 @@
  <img align="right" alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width: 80%; display: inline-block;" />
  <li>👋 I’m Mahmoud Gamal</li> 
  <li>💻 Motivated Backend Developer aspiring to master the Spring framework and I am always eager to learn, gain new experiences to enhance my professional skills.</li>
- <li>🌱 I’m currently learning more about Spring.</li>
+ <li>🌱 I’m currently learning more about spring & microservices.</li>
  <li>📫 How to reach me: <a href="mailto:mahmoudgamal0710@gmail.com">mahmoudgamal0710@gmail.com</a></li>
 </ul>
 <br>
